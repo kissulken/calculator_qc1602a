@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calculator_qc1602a", "calculator_qc1602a.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bombGame_SSD1306_I2C", "..\bombGame_SSD1306_I2C\bombGame_SSD1306_I2C.vcxproj", "{5448896F-2CEF-41BE-AAB8-DA182190A422}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "neopixelGame", "..\neopixelGame\neopixelGame.vcxproj", "{E87A27BB-FEDF-4EF1-B743-EE2F666CE7AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "synthesizer_remastered", "..\synthesizer_remastered\synthesizer_remastered.vcxproj", "{0694451A-78A7-4A34-A43B-54154360C8E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simon_says_game", "..\simon_says_game\simon_says_game.vcxproj", "{C53C8B49-D43A-4C55-A6AC-3C779D69AD3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vibro_dice_SW420", "..\vibro_dice_SW420\vibro_dice_SW420.vcxproj", "{F4081B4E-8303-4E2A-8383-9F18F98EBB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{5448896F-2CEF-41BE-AAB8-DA182190A422}.Debug|x86.ActiveCfg = Debug|Win32
+		{5448896F-2CEF-41BE-AAB8-DA182190A422}.Debug|x86.Build.0 = Debug|Win32
+		{5448896F-2CEF-41BE-AAB8-DA182190A422}.Release|x86.ActiveCfg = Release|Win32
+		{5448896F-2CEF-41BE-AAB8-DA182190A422}.Release|x86.Build.0 = Release|Win32
+		{E87A27BB-FEDF-4EF1-B743-EE2F666CE7AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E87A27BB-FEDF-4EF1-B743-EE2F666CE7AF}.Debug|x86.Build.0 = Debug|Win32
+		{E87A27BB-FEDF-4EF1-B743-EE2F666CE7AF}.Release|x86.ActiveCfg = Release|Win32
+		{E87A27BB-FEDF-4EF1-B743-EE2F666CE7AF}.Release|x86.Build.0 = Release|Win32
+		{0694451A-78A7-4A34-A43B-54154360C8E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{0694451A-78A7-4A34-A43B-54154360C8E1}.Debug|x86.Build.0 = Debug|Win32
+		{0694451A-78A7-4A34-A43B-54154360C8E1}.Release|x86.ActiveCfg = Release|Win32
+		{0694451A-78A7-4A34-A43B-54154360C8E1}.Release|x86.Build.0 = Release|Win32
+		{C53C8B49-D43A-4C55-A6AC-3C779D69AD3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C53C8B49-D43A-4C55-A6AC-3C779D69AD3F}.Debug|x86.Build.0 = Debug|Win32
+		{C53C8B49-D43A-4C55-A6AC-3C779D69AD3F}.Release|x86.ActiveCfg = Release|Win32
+		{C53C8B49-D43A-4C55-A6AC-3C779D69AD3F}.Release|x86.Build.0 = Release|Win32
+		{F4081B4E-8303-4E2A-8383-9F18F98EBB4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4081B4E-8303-4E2A-8383-9F18F98EBB4B}.Debug|x86.Build.0 = Debug|Win32
+		{F4081B4E-8303-4E2A-8383-9F18F98EBB4B}.Release|x86.ActiveCfg = Release|Win32
+		{F4081B4E-8303-4E2A-8383-9F18F98EBB4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3690A8-2466-4E7E-A7FB-F8D5B7692F27}
+	EndGlobalSection
+EndGlobal
